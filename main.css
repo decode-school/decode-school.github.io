@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Source Code Pro", serif;
+    font-optical-sizing: auto;
+    background-color: #ff5c65; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  .logo {
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .message {
+    color: white;
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  .sub-message {
+    color: #f0f0f0;
+    font-size: 16px;
+    margin-top: 10px;
+  }
+  
